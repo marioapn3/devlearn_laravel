@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+This code is opensource if u want to contribute on this project
+If u want to clone or fork this project u can do this step:
+1. Run composer install.
+2. Run npm install
+3. Run cp .env.example .env.
+4. Run php artisan key:generate.
+5. Run php artisan migrate.
+6. Run php artisan serve.
+7. Run npm run dev ( because im using tailwind and vite)
+8. Run php artisan storage:link ( for using storage on ur device )
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
